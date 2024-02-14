@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavelMarch
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SWIFT
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
